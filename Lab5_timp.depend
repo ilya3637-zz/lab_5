@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1430554358 source:c:\users\justinsane\desktop\lab5_timp\main.cpp
+	<iostream>
+	<vector>
+
